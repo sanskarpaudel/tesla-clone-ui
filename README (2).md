@@ -1,5 +1,6 @@
 # 🚗 Tesla Product Landing Page Clone
 ✅ Live Demo: [https://sanskarpaudel.github.io/weather-app/](https://sanskarpaudel.github.io/tesla-clone-ui/)
+
 This is a **responsive product landing page** inspired by the official Tesla website. It's built using **HTML and CSS only** as a beginner-friendly project to practice UI/UX layout design.
 
 ---
